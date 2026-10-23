@@ -10,8 +10,8 @@ Run the code within Colab: [![Open in Colab](https://colab.research.google.com/a
 
 ## Files
 
-- `wiener.py`: the four numerical functions, preserved from the notebook.
-- `example.py`: the plotting example, with its return value corrected to `p_after`.
+- `wiener.py`: four numerical functions
+- `example.py`: the plotting example
 - `jax-wiener-funcs.ipynb`: the functions above organized into a notebook 
 - `requirements.txt`: runtime and notebook dependencies.
 
