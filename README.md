@@ -5,7 +5,8 @@ Computing decision-time and reaction-time distributions for a Wiener drift-diffu
 The implementation uses Navarro–Fuss small-time and large-time density series, selecting between them using truncation-error bounds. A cumulative first-passage calculation scales the approximate decision-time bin masses. Discrete convolution adds lognormally distributed nondecision time, and a uniform component represents lapses.
 
 ## Interactive version
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xn1Y7ihZyPaxQRz19Ej4XFioDPMOFnSP?usp=sharing)
+
+Run the code within Colab: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xn1Y7ihZyPaxQRz19Ej4XFioDPMOFnSP?usp=sharing)
 
 ## Files
 
